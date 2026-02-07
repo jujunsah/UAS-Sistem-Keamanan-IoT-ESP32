@@ -4,7 +4,9 @@
 **NPM:** 23552011187  
 **Mata Kuliah:** Mikroprosesor & Antarmuka  
 
-![Foto Alat](LINK_FOTO_ALAT_DISINI)  
+![Foto Alat](LINK_FOTO_ALA![WhatsApp Image 2026-02-07 at 21 19 18](https://github.com/user-attachments/assets/945b4d57-4472-484b-8f93-00b8e4f95f80)
+![WhatsApp Image 2026-02-07 at 21 19 19](https://github.com/user-attachments/assets/a1dc6b14-0dfd-4df3-8327-70b4a765fd39)
+T_DISINI)  
 *(Foto Rangkaian Alat)*
 
 ---
