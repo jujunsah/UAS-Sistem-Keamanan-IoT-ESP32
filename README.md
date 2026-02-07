@@ -52,7 +52,11 @@ Sistem bekerja menggunakan **FreeRTOS** dengan pembagian tugas:
 ---
 
 ## Dokumentasi & Bukti
-*(Silakan upload foto alat atau screenshot Serial Monitor di sini)*
+<img src="https://github.com/user-attachments/assets/bc954181-bb20-41bf-986a-aa4eae5d991d" width="50%">
+<img src="https://github.com/user-attachments/assets/dec84c22-c3d6-4b80-adba-724e34a1029d" width="50%"> 
+
+*(Foto Simulasi Serial Monitor)*
+
 
 ---
 
